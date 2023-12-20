@@ -1,4 +1,4 @@
-transformers==3.0.2
+transformers==4.36.0
 pytorch-lightning==1.1.4
 omegaconf==2.0.5
 jsonlines~=3.0.0
