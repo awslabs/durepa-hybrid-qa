@@ -1,5 +1,5 @@
 transformers  # Only tested on transformers==3.0
-pytorch-lightning==1.1.4
+pytorch-lightning  # Only tested on pytorch-lightning==1.1.4
 omegaconf==2.0.5
 jsonlines~=3.0.0
 wandb~=0.12.7
